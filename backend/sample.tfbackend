@@ -1,0 +1,7 @@
+# ---------------------------
+# Terraform Backend Environment
+# ---------------------------
+bucket  = ""
+key     = ""
+region  = ""
+profile = ""
